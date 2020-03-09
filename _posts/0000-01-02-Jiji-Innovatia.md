@@ -2,7 +2,7 @@
 ## I'm on GitHub
 ### Let us catch up
 ---
-layout: slide
+layout: slide not good
 title: "Welcome to our second slide!"
 ---
 Your text
